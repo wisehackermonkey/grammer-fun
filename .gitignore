@@ -17,3 +17,8 @@ node_modules
 
 # Folder config file
 Desktop.ini
+ 
+.DS_Store
+dist
+dist-ssr
+*.local
